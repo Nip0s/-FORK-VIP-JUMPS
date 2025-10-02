@@ -18,6 +18,9 @@
     }
 ```
 
+## Требования
+[VipCore](https://csdevs.net/resources/vip-core.511/) 
+
 
 
 
